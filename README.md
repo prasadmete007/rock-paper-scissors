@@ -1,7 +1,3 @@
-Here's a tailored README file content for your Rock Paper Scissors game, including the deployment and repository information:
-
----
-
 # Rock Paper Scissors Game
 
 Welcome to the **Rock Paper Scissors** game, a simple and fun web-based game where you can challenge the computer in the classic game of Rock, Paper, Scissors! This project is built using HTML, CSS, and JavaScript.
@@ -64,4 +60,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-This README provides all the necessary details about your Rock Paper Scissors game, including how to access the live demo, repository, and instructions for playing.
