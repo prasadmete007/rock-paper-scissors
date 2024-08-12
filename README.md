@@ -54,9 +54,4 @@ If you want to run the game locally, follow these steps:
 
 Contributions are welcome! If you have ideas for new features or improvements, feel free to submit a pull request or open an issue in the repository.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
 
